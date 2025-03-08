@@ -1,12 +1,13 @@
-# 🍷 Winerar
-## [1.0_beta]
 
 
+# 🍷 Winerar  
+## Version: 1.0 (Beta)  
 
-really common issue: RUN THE FILE AS ADMIN 
+### ⚠️ Important: Run as Administrator!  
+Winerar requires **administrator privileges** to function properly.  
 
+### 🛠 Why does it need admin access?  
+Winerar interacts with **WinRAR files** stored in the `Program Files` directory, which is a protected system location. Running the program without administrator privileges may result in errors or limited functionality.  
 
-why we needing admin here
+To ensure everything works as expected, **right-click the executable** and select **"Run as administrator"** when launching Winerar.  
 
-
-we need to mess around with the winrar files (that are stored in Program Files)

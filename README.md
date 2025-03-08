@@ -1,6 +1,7 @@
-download at https://github.com/matiwastaken/winerar/releases/tag/prealpha-0.1
+# 🍷 Winerar
+## [1.0_beta]
 
-extract the thing, then open openme.bat and wait a sec, when the cmd window closes its done
+
 
 really common issue: RUN THE FILE AS ADMIN 
 

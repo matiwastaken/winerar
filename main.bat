@@ -1,3 +1,8 @@
+REM Old version
+REM Still usable tho
+REM put this file in the winrar folder and execute it
+
+
 @echo off
 title WineRar Patcher ^| v0.1
 

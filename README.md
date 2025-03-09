@@ -1,7 +1,7 @@
 
 
 # 🍷 Winerar  
-## Version: 1.0 (Beta)  
+## Version: 1.1 (Beta)  
 
 ### ⚠️ Important: Run as Administrator!  
 Winerar requires **administrator privileges** to function properly.  
